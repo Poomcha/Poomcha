@@ -8,8 +8,8 @@
             "lastname": "Degenève"
         },
         "📨": {
-            "mail": "ben.degeneve@gmail.com", // Cliquez ici : [mailto:ben.degeneve@gmail.com](mailto:ben.degeneve@gmail.com)
-            "lien_mail": "[mailto:ben.degeneve@gmail.com](mailto:ben.degeneve@gmail.com)"
+            "mail": "ben.degeneve@gmail.com"
+            // [Cliquez ici](mailto:ben.degeneve@gmail.com)
         },
         "📍": {
             "city": "Montpellier",
