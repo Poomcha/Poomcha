@@ -1,5 +1,4 @@
-<div align="center">
-
+<div align="center" style="display: flex;">
   
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poomcha&layout=donut-vertical&card_width=320&theme=aura" />
