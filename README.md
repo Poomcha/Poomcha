@@ -1,5 +1,3 @@
-<div align="center>
-
 ```json
 {
     "ℹ️": {
@@ -17,7 +15,6 @@
     }
 }
 ```
-</div>
 
 <div align="center">
   
