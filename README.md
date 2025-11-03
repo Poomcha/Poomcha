@@ -1,6 +1,3 @@
-<header align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=poomcha&fontSize=90" />
-</header>
 <div align="center">
 
   
@@ -11,7 +8,4 @@
     <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=poomcha&theme=aura&show_icons=true" />
   </a>
 </div>
-<footer align="center>
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer" />
-</footer>
 
