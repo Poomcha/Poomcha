@@ -1,11 +1,9 @@
 <div align="center>
 
   ```json
-{
-  "id": {
-    "firstname": "Ben",
-    "lastname": "Degenève"
-  }
+"id": {
+  "firstname": "Ben",
+  "lastname": "Degenève"
 }
   ```
 </div>
