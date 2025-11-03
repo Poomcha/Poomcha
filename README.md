@@ -6,6 +6,9 @@
         "firstname": "Ben",
         "lastname": "Degenève"
     },
+    "📨": {
+        "mail": "[ben.degeneve@gmail.com](mailto:ben.degeneve@gmail.com)
+    }
     "📍": {
         "city": "Montpellier",
         "country": "France"
