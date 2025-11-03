@@ -1,11 +1,10 @@
 <div align="center>
-
-  ```json
+```json
 "id": {
   "firstname": "Ben",
   "lastname": "Degenève"
 }
-  ```
+```
 </div>
 
 <div align="center">
