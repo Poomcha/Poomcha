@@ -9,7 +9,7 @@
         \},
         "📨": \{
             "mail": "ben.degeneve@gmail.com"
-        \}
+        \},
         "📍": \{
             "city": "Montpellier",
             "country": "France"
