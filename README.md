@@ -2,9 +2,13 @@
   
 ```json
 {
-    "id": {
+    "🪪": {
         "firstname": "Ben",
         "lastname": "Degenève"
+    },
+    "📍": {
+        "city": "Montpellier",
+        "country": "France"
     }
 }
 ```
