@@ -1,6 +1,6 @@
 <div align="center>
   
-```json
+
 {
     "🪪": {
         "firstname": "Ben",
@@ -14,7 +14,6 @@
         "country": "France"
     }
 }
-```
 </div>
 
 <div align="center">
