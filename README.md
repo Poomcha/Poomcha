@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since a while now.<br>📚 I'm currently learning a lot of things, taking the <a href="https://github.com/ossu/computer-science">OSSU computer science open-source curriculum</a>.<br>🎯 Goals: Being an accomplished self-taught computer science / AI engineer.<br>🎲 Fun fact: You can find my music bands <a href="https://www.instagram.com/mercredilegroupe">here</a> or <a href="https://www.instagram.com/korben_dallas_country_club">here</a> 🎵.</p>
+<p align="left">✨ Creating bugs since a while now.<br>📚 I'm currently learning a lot of things, taking the <a href="https://github.com/Poomcha/computer-science">OSSU computer science open-source curriculum</a>.<br>🎯 Goals: Being an accomplished self-taught computer science / AI engineer.<br>🎲 Fun fact: You can find my music bands <a href="https://www.instagram.com/mercredilegroupe">here</a> or <a href="https://www.instagram.com/korben_dallas_country_club">here</a> 🎵.</p>
 
 ###
 
