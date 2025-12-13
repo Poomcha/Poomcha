@@ -42,7 +42,7 @@
 
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poomcha&layout=compact&theme=aura)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poomcha&layout=compact&theme=aura&hide=hack)
 </div>
 
 
